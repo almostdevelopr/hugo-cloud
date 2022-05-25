@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://hugofordeploy.s3-website.ap-south-1.amazonaws.com'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'My New Hugo Site via AWS Cloud9'
 theme="ananke"
